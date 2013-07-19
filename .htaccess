@@ -1,0 +1,34 @@
+<IfModule mod_headers.c>
+	Header unset ETag
+	FileETag None
+	<FilesMatch "\.(ico|flv|jpg|jpeg|png|gif|js|css)$">
+		Header unset Last-Modified
+		Header set Expires "Fri, 21 Dec 2020 00:00:00 GMT"
+		Header set Cache-Control "public, no-transform"
+	</FilesMatch>
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine	On
+	RewriteBase	/
+
+
+
+	RewriteCond	%{QUERY_STRING} ^$
+	RewriteRule	^((.)?)$	index.php?p=home [L]
+
+	RewriteCond %{REQUEST_FILENAME} -f
+	RewriteRule ^(.*)$ $1 [QSA,L]
+
+	RewriteCond	$1 "/home/chadk/public_html"
+	RewriteRule	^(.+)$ / [L]
+
+	RewriteCond	$1 !^(\#(.)*|\?(.)*|login\.php(.)*|reserve(.)*|\.ftpquota(.)*|error_log(.)*|readme\.txt(.)*|index_test\.php(.)*|ioncube\/(.)*|admin\.php(.)*|iPad\.jpeg(.)*|\.htaccess(.)*|images\/(.)*|\.htaccess\.full(.)*|content\/(.)*|index\.html(.)*|index\.php(.)*|download\.php(.)*|robots\.txt(.)*)
+	RewriteRule	^(.+)$ index.php?url=$1&%{QUERY_STRING} [L]
+</IfModule>
+
+<IfModule mod_deflate.c>
+	<FilesMatch "\.(js|css|ico|flv|jpg|jpeg|png|gif)$">
+		SetOutputFilter DEFLATE
+	</FilesMatch>
+</IfModule>

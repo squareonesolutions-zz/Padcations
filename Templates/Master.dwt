@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Home Version 8</title>
+<!-- TemplateEndEditable -->
+<link rel="icon" type="image/png" href="../images/favicon.ico" />
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+<!--[if lt IE 9]>
+<script src="scripts/ie9.js">IE7_PNG_SUFFIX=".png";</script>
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../stylesheets/style.css"> 
+<!-- <link rel="stylesheet" href="../stylesheets/responsive.css">  -->
+<script src="../scripts/jquery.min.js"></script> 
+<script src="../scripts/jquery.blackandwhite.min.js"></script>
+<script src="../scripts/js_func.js"></script>
+<script>
+$(function(){
+    $('.bwWrapper').BlackAndWhite({
+        hoverEffect : true,
+        webworkerPath : false,
+        responsive:true,
+        invertHoverEffect:false
+    });
+});
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body,td,th {
+	font-family: "PT Sans", Arial, Tahoma, Verdana, Sans-Serif;
+}
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32455705-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div class="wraper">
+ <header class="header">
+  <a class="logo" href="../index.html">Padcations</a>
+  <nav>
+  <!-- top menu -->
+   <ul>
+    <li><a href="../index.html">Home</a></li>
+    <li><a href="../about.html">About</a></li>
+    <li><a href="/reserve/">Online Rentals</a></li>
+    <li><a href="../rates.html">Rates</a></li>
+    <li><a href="../testimonials.html">Testimonials</a></li>
+    <li><a href="../apps.html">Apps</a></li>
+    <li><a href="../faqs.html">FAQ's</a></li>
+    <li><a href="../contact.html">Contact</a></li>
+   </ul>
+  <!-- /top menu -->
+  </nav>
+ </header>
+</div>
+<!-- TemplateBeginEditable name="Slider Region" --><!-- TemplateEndEditable --> 
+
+<div class="content_block">
+  <!-- text bar2 -->
+    <div class="text_bar2"><!-- TemplateBeginEditable name="Header" --> 
+  <div class="wraper">
+    <h2>Padcations is the shit!<span>Want to take a tour?  Check out the numerous options &amp; features that Construct includes, we know you'll love them!</span></h2>
+    <a class="buy btn_l" href="#">You Love Us!</a>
+ </div><!-- TemplateEndEditable -->
+ </div>
+ 
+ <!-- /text bar2 --><!-- TemplateBeginEditable name="Content" -->
+ <div class="mainColumn">
+ <div class="wraper">
+   <!-- intro text -->
+   <br />
+   <div class="intro_text">
+     <div ><img src="../images/home_page_8/large_image_up_top.png" width="426" height="238" alt="" /></div>
+     <div class="desc">
+       <h4>Welcome to Construct, a Responsive Business HTML template that has a ton of features. Let us tell you about it!</h4>
+       <p>Want to take a tour?  Check out the numerous options and features that Construct includes, we knoesir you’ll love them! At vero eos et accusamus et iusto odios un  dig nissimos ducimus qui blan ditiis prasix esentium voluptatum deleniti atque si corrupti quos dolores et quas molestias excep turi int occaecati cupiditate non provident, simi lique sunt in culpa qui officia deserunt mol distinctio. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prae includes, we knoesir you’ll love them! At vero eos et accusamus et iusto odio dignissimos duc imus qui blan ditiis prasix eseent ntium voluptatum deleniti atques.</p>
+     </div>
+   </div>
+   <!-- /intro text -->
+   <!-- features6_block -->
+   <div class="features2_block features3_block features6_block">
+     <ul>
+       <li class="design"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Great Design</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="flexible"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Very Flexible</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="fonts"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>500+ Fonts</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="ultra"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Ultra Responsive</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="support"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Superb Support</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="easy"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Easy To Customize</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="color"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Choose Your Color</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+       <li class="updates"> <a class="circle_link" href="#">&nbsp;</a>
+         <h4>Constant Updates</h4>
+         <p><span>Subhead Goes HEre</span></p>
+         <p>Lid est laborum dolos rumes fustsirs sit untras. Et harums ser quidem sit rerums facilis est dolores uni nemis sad untras voluptas uners sits amets. </p>
+       </li>
+     </ul>
+   </div>
+   <!-- /features6_block -->
+   <!-- /send_quote -->
+   <div class="send_quote">
+     <h4>Would you like to make a reservation?</h4>
+     <p>Two easy ways to order:<a class="btn_col" href="reserve/">Reserve Rental Online</a><a class="btn_col" href="contact.html">Contact Us Directly</a></p>
+   </div>
+   <!-- /send_quote -->
+ </div></div>
+ <!-- TemplateEndEditable --></div>
+
+<!-- footer -->
+<!-- social block -->
+<div class="social_block">
+ <div class="wraper">
+  <p style="padding-left:320px">Stay connected with Padcations while at home or on the go!</p>
+  <ul>
+   <li class="facebook"><a href="http://www.facebook.com/Padcations?fref=ts" target="_blank">Facebook</a></li>
+   <li class="twitter"><a href="https://twitter.com/padcations" target="_blank" >Twitter</a></li>
+   <li class="google" style="display:none"><a href="#">Google+</a></li>
+  </ul>
+ </div>
+</div>
+<!-- /social block -->
+
+<div class="footer">
+ <footer>
+  <!-- bottom about -->
+  <div class="bottom_about">
+  <img src="../images/logo_small.png" alt="" width="250" height="150" align="left" style="margin-right: 15px"/>
+   <p>Padcations offers a fresh new way to experience your favorite travel destinations using one of the coolest devices to ever hit the market: iPads - fully loaded with travel related apps, movies, books and more. Gone are the days of traditional paper maps and city guides. Now you can surf the net for reviews and locations, navigate with interactive electronic maps, watch movies, and play games all from one light, portable, stylish device!</p>
+  </div>
+  <!-- /bottom about -->
+  
+  <!-- subscribe block -->
+  <div class="subscribe_block">
+   <h3><span>Receive news from Padcations!</span></h3>
+   <form method="post" action="../formmail.php">
+    <p>Name: <input type="text" name="from" value=""  /></p>
+    <p>E-mail: <input type="text" name="email_address" value="" /></p>
+    <p><input type="submit" value="Subscribe!" /></p> 
+    <input type="hidden" name="subject" value="E-mail newsletter" />
+    <input type="hidden" name="mailto" value="info@padcations.com" />
+    <input type="hidden" name="return_to" value="http://padcations.com/confirm.html" />
+   </form>
+  </div>
+  <!-- /subscribe block -->
+ </footer>
+</div>
+
+<!-- copyright -->
+<div class="copyright">
+ <div class="wraper">
+  <p class="white">Copyright 2012 Padcations LLC. All Rights Reserved | <a href="terms.html" class="white">Terms &amp; Conditions</a> | <a href="../associates.html" class="white">Associates</a> | Website powered by <a class="white" href="http://startfromsquareone.com/" target="_blank">Square One Internet Solutions</a></p>
+  <a class="top white underlined" href="#">Back to the top</a>
+ </div>
+</div>
+<!-- /copyright -->
+<!-- /footer -->
+</body>
+</html> 
